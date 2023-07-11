@@ -3,7 +3,7 @@ using ECommons.DalamudServices;
 using Splatoon.SplatoonScripting;
 using System.Collections.Generic;
 
-namespace SplatoonScriptsUnOfficial.Generic
+namespace SplatoonScriptsUnofficial.Island
 {
     public class Island_Gather : SplatoonScript
     {
